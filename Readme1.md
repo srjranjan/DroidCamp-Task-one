@@ -2,9 +2,9 @@
 
 This project is about managing attendance of students in schools gradewise. <br>
 It has two Modules:-<br>
-1. **Admin**<br>
-2.**Teacher**  
-  
+1. **Admin**  
+2. **Teacher**  
+
 ## Introduction
 
 	This project has many features :
@@ -29,7 +29,6 @@ It has two Modules:-<br>
 To login into the admin panel.  
 **username = admin** <br> **password = password**<br>
 
-To login into teacher panel.<br>
-		**username = email**<br>
-		**password =** type all the characters of email  before **"@"** symbol. <br>
-			for e.g. if email of a Teacher is "**amarjit123@gmail.com**", then his password would be **amarjit123**
+To login into teacher panel.  
+	**username = email**  
+	**password =** type all the characters of email  before **"@"** symbol. for e.g. if email of a Teacher is "**amarjit123@gmail.com**", then his password would be **amarjit123**
